@@ -30,7 +30,7 @@ O Trekko é um projeto acadêmico de uma aplicação voltada para a área de tur
 * **[RNF02] Usabilidade e Responsividade:** A interface web deve ser responsiva, adaptando-se corretamente tanto a telas de computadores quanto a dispositivos móveis (Mobile First via CSS).
 * **[RNF03] Persistência:** Os dados devem ser salvos em um banco de dados relacional.
 * **[RNF04] Segurança:** As senhas dos usuários devem ser armazenadas no banco de dados de forma criptografada (ex: utilizando bcrypt no Node.js).
-* **[RNF05] Desempenho:** O tempo de resposta das consultas ao banco de dados não deve ultrapassar 2 segundos.
+* **[RNF05] Desempenho:** O tempo de resposta das consultas ao banco de dados deve ser relativamente rápido.
 
 ---
 
